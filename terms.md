@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /terms
+---
+
 # Terms of Service
 
 _Last updated: May 24, 2025_
